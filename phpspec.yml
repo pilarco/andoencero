@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: apilogic
+        psr4_prefix: apilogic
+        src_path: app
